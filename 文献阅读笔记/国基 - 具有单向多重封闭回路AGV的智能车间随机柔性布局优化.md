@@ -8,7 +8,7 @@
 4. 结论：提出一种基于ＳＡ算法的再制造车间设施布局优化求解方法。最后以某废旧机床再制造车间设施布局为例，验证了所提模型与方法的有效性。
 
 ### [29] 不确定需求下的设备动态布局方法
-1. 研究对象：具有产品需求不确定性、设备面积不等的车间
+1. 研究对象：具有产品需求不确定、设备面积不等的车间
 2. 研究问题：不确定需求下的不等面积设备动态布局问题
 3. 优化目标：最小化物料搬运及设备重组费用总和
 4. 研究方法：结合三角模糊数运算及排序方法与自适应局部搜索机制提出了改进遗传算法
@@ -17,7 +17,8 @@
 ### [30] Layout design for flexible manufacturing systems considering single-loop directional flow patterns
 >基于单环定向流动的柔性制造系统布局设计
 
-1. 
-2. 
+1. 研究对象：the integration of the facility layout and material flow path design for a FMS.
+2. 方法：develop a solution procedure
+3. 结论：The solution procedure effectively solves the integrated facility layout and material flow path design problem.
 
 ### [33] A Loop Layout Design Problem for Flexible Manufacturing Systems
