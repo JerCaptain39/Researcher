@@ -17,8 +17,17 @@
 ### [30] Layout design for flexible manufacturing systems considering single-loop directional flow patterns
 >基于单环定向流动的柔性制造系统布局设计
 
-1. 研究对象：the integration of the facility layout and material flow path design for a FMS.
-2. 方法：develop a solution procedure
-3. 结论：The solution procedure effectively solves the integrated facility layout and material flow path design problem.
+- 研究问题：The facility layout and material flow path design problem in a FMS.
+- 研究对象：FMS; open-field type layout with single-loop directed flow path.
+- 方法：step1-traditional block layout: spacefilling curve and simulated annealing algorithm; step2-detailed FMS layout: mixed integer program.
+
+>traditional block layout: to minimize material handling costs
+
+>detailed FMS layout: includes the spatial coordinates and orientation of each FMS cell
+
+- 结论：The solution procedure effectively solves the integrated facility layout and material flow path design problem.
+
+### [31] Tandem Configurations for Automated Guided Vehicle Systems and the Analysis of Single Vehicle Loop
+
 
 ### [33] A Loop Layout Design Problem for Flexible Manufacturing Systems
